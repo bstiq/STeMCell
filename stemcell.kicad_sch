@@ -3753,7 +3753,7 @@
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 127.762 54.229 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C2681554" (id 4) (at 123.952 54.229 0)
+    (property "LCSC" "C963373 " (id 4) (at 123.952 54.229 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid ee246cbc-5f7b-478b-96e3-7b1b43564274))
